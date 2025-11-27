@@ -1,5 +1,25 @@
 body
 {
 background-color: #AA10FF;
+}
 
+img
+{
+    width:50%;
+}
+
+ol, ul
+{
+    width:40%;
+    display: inline-block;
+}
+
+table
+{
+    border: 2px white solid;
+}
+
+th, td
+{
+    border: 2px red dashed;
 }
